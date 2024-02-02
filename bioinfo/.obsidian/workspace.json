@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "a11c6e7bc49be7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "64e0de33538ef57a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c8902d3e566b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class 2 - The Human Genome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10b9d63dadc92f46",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e03376ed634b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46dc1fae371991b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa2bc2684c3f8bb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbbf74927781f54a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6380581dd4c168f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19a15349b24c273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3bc0afc408f318b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Class 2 - The Human Genome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cf133f4f30df0da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Class 2 - The Human Genome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "918bfd0b61a0c1ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fe390fa86eb3101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Class 2 - The Human Genome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46dc1fae371991b6",
+  "lastOpenFiles": [
+    "Class 1 - UNIX.md",
+    "Class 2 - The Human Genome.md",
+    "main",
+    "scratch"
+  ]
+}
