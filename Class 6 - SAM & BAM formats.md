@@ -81,3 +81,25 @@ Show the first line (column names) of a sam or bam file
 ```shell
 samtools view some.bam | head -1
 ```
+
+### Converting SAM to BAM
+
+#### SAM 
+- Text-based 
+- Human readable 
+- Requires More Memory
+#### BAM
+- Binary format 
+- Less memory
+- Around 10%
+
+**CRAM**
+- Even more compression
+- Around 1-5%
+
+
+```shell
+samtools view -Sb sample.sam > sample.bam
+```
+> -Sb:
+> 	From SAM to bam
